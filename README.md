@@ -1,5 +1,8 @@
 # af-web
 
+## Resultado do Projeto
+![image](https://user-images.githubusercontent.com/48499810/143787838-1ef77ae6-a8b8-4c64-ad6f-8e4c53429928.png)
+
 ## Project setup
 ```
 yarn install
